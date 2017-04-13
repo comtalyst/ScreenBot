@@ -1,0 +1,14 @@
+.root{
+    -fx-font-family: Segoe UI;
+
+}
+.display{
+    -fx-font-size: 13;
+}
+
+.butt{
+    -fx-background-color: #4682b4;
+    -fx-font-size: 15;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bolder;
+}
